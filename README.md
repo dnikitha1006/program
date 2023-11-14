@@ -182,7 +182,7 @@ public class Main {
                         // Student can take a quiz
                         MCQ[] quizQuestions = {
                             new MCQ("What is the capital of France?", new String[]{"Paris", "Berlin", "London"}, 1),
-                            new MCQ("Which planet is known as the Red Planet?", new String[]{"Mars", "Venus", "Jupiter"}, 0),
+                            new MCQ("Which planet is known as the Red Planet?", new String[]{"Mars", "Venus", "Jupiter"}, 1),
                             // Add more questions as needed
                         };
 
